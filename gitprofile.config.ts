@@ -81,7 +81,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      '', // Empty fileUrl will hide the `Download Resume` button.
+      'resume-timothychan.tiiny.site', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Unreal Engine 5',
