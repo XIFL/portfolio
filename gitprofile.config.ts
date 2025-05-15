@@ -60,7 +60,7 @@ const CONFIG = {
   social: {
     linkedin: 'timothy-chan-4a06a6198/',
     x: '',
-    itch.io: 'https://xiflheimex.itch.io/',
+    itchio: 'https://xiflheimex.itch.io/',
     mastodon: '',
     researchGate: '',
     facebook: '',
