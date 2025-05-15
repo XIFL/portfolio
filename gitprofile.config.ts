@@ -34,19 +34,19 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: '2D Platformer',
+          title: 'Petal Stride',
           description:
             'Celeste-inspired 2D platformer prototype developed for my Midterm project.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://github.com/XIFL/MidtermProject',
+            'https://ibb.co/WWT9zb8f',
+          link: 'https://github.com/XIFL/Petal-Stride',
         },
         {
           title: '3D Bullet Hell',
           description:
             '3rd Person Survival Bullet Hell prototype developed for one of my assignments.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://ibb.co/27XTFDcw',
           link: 'https://github.com/XIFL/3rdPersonBulletHell',
         },
       ],
