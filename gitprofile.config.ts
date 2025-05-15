@@ -36,9 +36,9 @@ const CONFIG = {
         {
           title: 'Petal Stride',
           description:
-            'Celeste-inspired 2D platformer prototype developed for my Midterm project.',
+            'Celeste-inspired 2D platformer prototype developed for my Capstone project.',
           imageUrl:
-            'https://ibb.co/WWT9zb8f',
+            'https://i.postimg.cc/MG8rc17c/Petal-Stride-Logo-Unedited.png',
           link: 'https://github.com/XIFL/Petal-Stride',
         },
         {
@@ -46,7 +46,7 @@ const CONFIG = {
           description:
             '3rd Person Survival Bullet Hell prototype developed for one of my assignments.',
           imageUrl:
-            'https://ibb.co/27XTFDcw',
+            'https://i.postimg.cc/PxJsSmP6/Bullet-Hell-Thumbnail.png',
           link: 'https://github.com/XIFL/3rdPersonBulletHell',
         },
       ],
